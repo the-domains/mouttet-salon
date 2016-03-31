@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Organic]]></title>
+        <description><![CDATA[Organic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Mar 2016 12:22:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We are organic</p>]]></description>
+            <link>undefinedwe-are-organic/index.html</link>
+            <guid isPermaLink="false">34bdfbb6-8e9d-4621-80f7-d15298207c2c</guid>
+            <pubDate>Thu, 31 Mar 2016 12:22:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
